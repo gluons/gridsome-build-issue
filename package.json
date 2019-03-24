@@ -1,0 +1,13 @@
+{
+  "name": "bv-test",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.5.0",
+    "vue-radio-toggle-buttons": "^0.0.4"
+  }
+}
