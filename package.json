@@ -1,5 +1,5 @@
 {
-  "name": "bv-test",
+  "name": "test",
   "private": true,
   "scripts": {
     "build": "gridsome build",
