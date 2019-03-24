@@ -1,4 +1,4 @@
-# Gridsome build issue
+# Gridsome [issue 312](https://github.com/gridsome/gridsome/issues/312)
 
 A repo to repro Gridsome build error.
 
